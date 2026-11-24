@@ -1,0 +1,47 @@
+{
+  "RL481528024457": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Wiesenstraße 48a, 32257 Bünde, Deutschland",
+    "receiver": "Wolf Dieter Krauß, Jörg-Syrlinstraße 37, 89081 Ulm, Deutschland",
+    "price": "3.390,00 €",
+    "description": "Hersteller: Kreidler<br>Typ: Florett Cross Mustang Racing (K54/512)<br>Fahrgestelnummer: 5152415<br>Erstzulassung: 06/1975<br>KM laut Vorbesitzer: 38.000 km<br>Leistung: 4.6 kW / 6.25 PS<br>Hubraum: 49.9 cm³<br>Farbe: Rotorange<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Wolf Dieter Krauß<br>Jörg-Syrlinstraße 37<br>89081 Ulm<br>Deutschland<br>Telefon: +49 179 2194688",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "24.11.2026",
+    "deliveryDate": "27.11.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
